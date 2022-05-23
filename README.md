@@ -1,1 +1,1 @@
-# Day-5-Basic-Core
+DAY 5 Basic Core and Functional Programs
